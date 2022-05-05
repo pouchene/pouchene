@@ -12,7 +12,7 @@
 
 👀 Onlookers are welcome to stick around but will not find anything interesting here for now.
 
-🇪🇺 Feel free to check my [CV - Europass](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/f613fd51-cfb6-4bd3-9775-67bc7351830e?view=html)
+⭐ Feel free to check my [CV - Europass](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/f613fd51-cfb6-4bd3-9775-67bc7351830e?view=html)
 
 🌱 I am uploading from time to time the material I use and produce while studying.
 
