@@ -1,4 +1,4 @@
-Pierre @pouchene Ouchene's repository.
+Pierre Ouchene's repository.
 
 - 📊 I currently work in statistical data analysis, and show great interest in time series modelling and computer programming.
 
@@ -6,9 +6,11 @@ Pierre @pouchene Ouchene's repository.
 
 - 👀 Onlookers are welcome to stick around but will not find anything interesting here for now.
 
+- 🇪🇺 Feel free to check my CV (Europass) at https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/f613fd51-cfb6-4bd3-9775-67bc7351830e?view=html
+
 - 🌱 I am uploading from time to time the material I use and produce while studying.
 
-- 📫 I invite you to contact me through GitHub, or at www.linkedin.com/in/pierre-ouchene
+- 📫 I invite you to contact me through GitHub (@pouchene), or at www.linkedin.com/in/pierre-ouchene
 
 - 🍻 Cheers!
 
