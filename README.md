@@ -12,11 +12,9 @@
 
 👀 Onlookers are welcome to stick around but will not find anything interesting here for now.
 
-⭐ Feel free to check my [CV - Europass](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/f613fd51-cfb6-4bd3-9775-67bc7351830e?view=html)
-
 🌱 I am uploading from time to time the material I use and produce while studying.
 
-📫 I invite you to contact me through [GitHub](https://github.com/pouchene) or [LinkedIn](www.linkedin.com/in/pierre-ouchene)
+📫 I invite you to contact me through [GitHub](https://github.com/pouchene) or [LinkedIn](www.linkedin.com/in/pierre-ouchene), and check out my [Europass profile](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/f613fd51-cfb6-4bd3-9775-67bc7351830e?view=html)
 
 🍻 Cheers!
 
