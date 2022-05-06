@@ -1,10 +1,10 @@
 🇬🇧 (🇫🇷 coming soon)
 
-===================================
+=====================
 
 👋 Hi there, welcome to my GitHub.
 
-===================================
+=====================
 
 📊 I currently work in statistical data analysis, and show great interest in time series modelling and computer programming.
 
@@ -18,11 +18,11 @@
 
 🍻 Cheers!
 
-==============
+==========
 
 Pierre Ouchene
 
-==============
+==========
 
 (🇫🇷 coming soon)
 
